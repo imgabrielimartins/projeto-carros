@@ -15,16 +15,5 @@ Este projeto é um site desenvolvido utilizando HTML, JavaScript e Bootstrap. To
 - [Bootstrap](https://getbootstrap.com/)
 - [Bootstrap Icons](https://icons.getbootstrap.com/)
 
-## Como usar
 
-1. Clone o repositório:  
-   `git clone https://github.com/imgabrielimartins/projeto-carros.git`
-2. Abra o arquivo `index.html` no seu navegador
 
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT.
